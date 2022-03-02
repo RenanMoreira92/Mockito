@@ -90,7 +90,7 @@ class FinalizarLeilaoServiceTest {
                 new Usuario("Pedro"));
 
         Lance primeiro = new Lance(new Usuario("Antonio"),
-                new BigDecimal(600);
+                new BigDecimal(600));
         Lance segundo = new Lance(new Usuario("Alexandre"),
                 new BigDecimal(900));
 
